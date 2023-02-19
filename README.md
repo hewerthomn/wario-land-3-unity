@@ -6,7 +6,7 @@ Wario Land 3 sprites with learn propose.
 
 -----
 
-Check WebGL Build 
+Check WebGL Build [https://hewerthomn.com/wario-land-3-unity/](https://hewerthomn.com/wario-land-3-unity/)
 
 ------
 

@@ -1,16 +1,15 @@
 # Wario Land with Unity
 
-I created this project inspirated in
-Wario Land 3 sprites with learn propose.
+I created this project for learning propose and I tried to create the first level of the game Wario Land 3 from Game Boy Color console.
 
-
------
 
 Check WebGL Build [https://hewerthomn.com/wario-land-3-unity/](https://hewerthomn.com/wario-land-3-unity/)
 
 ------
 
 ![Screenshot](screenshot.png)
+
+![Gameplay](wario-land-unity.gif)
 
 ------
 
